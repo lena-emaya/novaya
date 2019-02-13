@@ -1,0 +1,180 @@
+
+{
+  "type": "Feature",
+  "properties": {
+    "type": "maneuver",
+    "name": "Cesar Chavez Street",
+    "arrow": "straight",
+    "position": 1.922,
+    "instruction": "Turn left onto Cesar Chavez Street"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [23, 37]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "maneuver",
+    "name": "US 101",
+    "arrow": "slight-right",
+    "position": 2.922,
+    "instruction": "Take the ramp on the right towards US 101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [22.402971, 37.749536]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "maneuver",
+    "name": "US 101",
+    "arrow": "slight-left",
+    "position": 3.922,
+    "instruction": "Merge left onto US 101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [22.402851, 37.753336]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "maneuver",
+    "name": "US 101",
+    "arrow": "slight-left",
+    "position": 4.922,
+    "instruction": "Keep left at the fork onto US 101"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [22.404888, 37.764385]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "maneuver",
+    "name": "Octavia Boulevard",
+    "arrow": "straight",
+    "position": 6.922,
+    "instruction": "Continue straight towards Octavia Boulevard"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [22.415395, 37.769616]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "maneuver",
+    "name": "Octavia Boulevard",
+    "arrow": "straight",
+    "position": 7.922,
+    "instruction": "Continue straight towards Octavia Boulevard"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [22.423322, 37.771858]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "maneuver",
+    "name": "Fell Street",
+    "arrow": "left",
+    "position": 8.922,
+    "instruction": "Turn left onto Fell Street"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-122.424344, 37.775763]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "maneuver",
+    "name": "Masonic Avenue",
+    "arrow": "right",
+    "position": 10.922,
+    "instruction": "Turn right onto Masonic Avenue"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-122.445924, 37.772995]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "maneuver",
+    "name": "Turk Boulevard",
+    "arrow": "left",
+    "position": 11.922,
+    "instruction": "Turn left onto Turk Boulevard"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-122.447062, 37.778631]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "maneuver",
+    "name": "Stanyan Street",
+    "arrow": "right",
+    "instruction": "Turn right onto Stanyan Street"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-122.455233, 37.777607]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "maneuver",
+    "name": "Geary Boulevard",
+    "arrow": "left",
+    "instruction": "Turn left onto Geary Boulevard"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-122.456344, 37.781451]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "maneuver",
+    "name": "Palm Avenue",
+    "arrow": "right",
+    "instruction": "Turn right onto Palm Avenue"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-122.457757, 37.781387]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "type": "maneuver",
+    "name": "Palm Avenue",
+    "arrow": "end",
+    "instruction": "You have arrived at your destination, on the right"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-122.458041, 37.78539]
+  }
+}
+
